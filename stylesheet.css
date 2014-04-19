@@ -1,0 +1,12 @@
+body {
+	background: url(images/me.jpg);
+	background-attachment: scroll;
+  	background-clip: border-box;
+  	background-color: transparent;
+  	background-origin: padding-box;
+  	background-repeat: no-repeat;
+  	background-size: 50%;
+  	background-position: top right;
+  	font-family: 'Source Code Pro' ;
+}
+
