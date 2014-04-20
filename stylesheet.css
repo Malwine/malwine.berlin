@@ -8,5 +8,11 @@ body {
   	background-size: 50%;
   	background-position: top right;
   	font-family: 'Source Code Pro' ;
+  	padding-left: 5%;
 }
+
+a:link {color:#FF6BA0;}
+a:visited {color:#FF6BA0;}  
+a:hover {color:#FFCEF0;}  
+a:active {color:#FF6BA0;} 
 
