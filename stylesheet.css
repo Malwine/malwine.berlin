@@ -11,7 +11,11 @@ body {
   	padding-left: 5%;
 }
 
-a:link {color:#FF6BA0;}
-a:visited {color:#FF6BA0;}  
-a:hover {color:#FFCEF0;}  
-a:active {color:#FF6BA0;}
+a:link {color:#215a7e;}
+a:visited {color:#215a7e;}  
+a:hover {color:#389bd9;}  
+a:active {color:#215a7e;}
+
+.intended {
+  margin-left: 40px;
+}
