@@ -1,14 +1,19 @@
+@media screen and (min-width: 1100px) {
+  body {
+    background: url(images/me2.jpg);
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: transparent;
+    background-origin: padding-box;
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: top right;
+  }
+}
+
 body {
-	background: url(images/me2.jpg);
-	background-attachment: scroll;
-  	background-clip: border-box;
-  	background-color: transparent;
-  	background-origin: padding-box;
-  	background-repeat: no-repeat;
-  	background-size: 50%;
-  	background-position: top right;
-  	font-family: 'Source Code Pro' ;
-  	padding-left: 5%;
+  font-family: 'Source Code Pro' ;
+  padding-left: 5%;
 }
 
 a:link {color:#215a7e;}
